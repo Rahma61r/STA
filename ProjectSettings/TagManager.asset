@@ -11,6 +11,7 @@ TagManager:
   - Ball
   - Belall
   - Coin
+  - Guide
   layers:
   - Default
   - TransparentFX
