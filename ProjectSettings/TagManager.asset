@@ -10,6 +10,7 @@ TagManager:
   - Youssef
   - Ball
   - Belall
+  - Coin
   layers:
   - Default
   - TransparentFX
