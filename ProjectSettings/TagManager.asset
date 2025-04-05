@@ -12,6 +12,7 @@ TagManager:
   - Belall
   - Coin
   - Guide
+  - dora
   layers:
   - Default
   - TransparentFX
