@@ -13,6 +13,7 @@ TagManager:
   - Coin
   - Guide
   - dora
+  - Fluid
   layers:
   - Default
   - TransparentFX
